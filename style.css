@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dcf5bd;
+    color: #333333;
+    margin: 0;
+}
+
+.hero {
+    background-color: #dce8e3;
+    text-align: center;
+    padding: 30px;
+    border-bottom: 3px solid #496b5a;
+}
+
+b {
+    color: #1f3b2f;
+}
+
+h1 {
+    color: #284b3b;
+}
+
+h2 {
+    color: #284b3b;
+}
+
+h3 {
+    color: #284b3b;
+}
+
+.My-Photo {
+    border: 10px solid #496b5a;
+    border-radius: 0%;
+}
+
+.page-content {
+    width: 80%;
+    margin: 25px auto;
+}
+
+.content-card {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #cccccc;
+}
+
+#hobbies {
+    background-color: #e8eee9;
+}
+
+#goals {
+    border-left: 4px solid #496b5a;
+}
+
+.contact-links a {
+    display: inline-block;
+    background-color: #496b5a;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px;
+    text-decoration: none;
+}
+
+.contact-links a:hover {
+    background-color: #284b3b;
+}
+
+.site-footer {
+    background-color: #284b3b;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.github {
+    color: #1f3b2f;
+}
+
+.linkedin{
+    color: #1f3b2f;
+}
